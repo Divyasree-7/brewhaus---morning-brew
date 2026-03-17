@@ -8,7 +8,7 @@ Built for the **Rebrand a Local Coffee Shop** challenge.
 ---
 
 ## 🔗 Live Site
-**[View the Brand Identity →]((https://divyasree-7.github.io/brewhaus---morning-brew/))**
+**[View the Brand Identity →](https://divyasree-7.github.io/brewhaus---morning-brew/)**
 
 ---
 
